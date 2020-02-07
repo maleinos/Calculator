@@ -4,6 +4,10 @@ In that project, I used top-level container JFrame that provides a window on the
 
 ![promo](https://user-images.githubusercontent.com/31312260/74053643-4ca24080-49ed-11ea-9cf3-9c5d75cb591a.jpg)
 
+
+Images that were used are here. You may use it
+
+
 ![add](https://user-images.githubusercontent.com/31312260/74053460-eb7a6d00-49ec-11ea-9701-976f69a01e84.png)
 ![clear](https://user-images.githubusercontent.com/31312260/74053463-ed443080-49ec-11ea-8147-3b5b6dd819e3.png)
 ![div](https://user-images.githubusercontent.com/31312260/74053464-eddcc700-49ec-11ea-9ed6-0a3e866dcb4d.png)
@@ -21,5 +25,3 @@ In that project, I used top-level container JFrame that provides a window on the
 ![pinkthree](https://user-images.githubusercontent.com/31312260/74053481-f0d7b780-49ec-11ea-9ea6-a34b87e9aee0.png)
 ![pinktwo](https://user-images.githubusercontent.com/31312260/74053482-f1704e00-49ec-11ea-83b6-2247a0220681.png)
 ![pinkzero](https://user-images.githubusercontent.com/31312260/74053483-f1704e00-49ec-11ea-8733-1ef185674e4d.png)
-![promo](https://user-images.githubusercontent.com/31312260/74053485-f208e480-49ec-11ea-87ab-b4ffe3cb2b41.jpg)
-
